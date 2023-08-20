@@ -40,7 +40,7 @@
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/laravel_logo_icon_170314.png">
     </td>
 </tr>
 <tr>
@@ -74,7 +74,7 @@
         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/laravel_logo_icon_170314.png">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
     </td>
 </tr>
 <tr>
