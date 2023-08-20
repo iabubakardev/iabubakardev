@@ -23,12 +23,12 @@
         <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
     </td>
     <td align='center' width="190">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" height="80">
+        <img src="https://getlogovector.com/wp-content/uploads/2020/07/postman-inc-logo-vector.png" height="80">
     </td>
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/2066px-Prometheus_software_logo.svg.png" height="80">
+       <img src="https://brandslogos.com/wp-content/uploads/images/large/angular-logo-1.png">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
@@ -37,7 +37,7 @@
         <img src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png">
     </td>
     <td align='center'>
-        <img src="https://www.skillfinder.com.au/media/wysiwyg/mongodb-logo-skill-finder.png">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
@@ -51,13 +51,13 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60" height="60">
     </td>
     <td align='center'>
-        <img src="https://miro.medium.com/v2/resize:fit:1400/1*4M4OghuybPhjRsLxhrNsGA.png">
+        <img src="https://ivazz.com/wp-content/uploads/2021/05/sass-1.png">
     </td>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="60">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ77HqLejjS2HnEBfFpjm9FKySMFLTYMJxmM-JF9AAjzB2G6-8PtzLyRhQdtrA-ipvp6Rs&usqp=CAU" width="60">
     </td>
     <td align='center'>
-        <img src="https://allvectorlogo.com/img/2019/06/elastic-elasticsearch-logo-vector.png">
+        <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg">
     </td>
 </tr>
 <tr>
@@ -71,21 +71,21 @@
         <img src="https://miro.medium.com/max/901/1*GkrYGz_r9W6AVgEloQpJFQ.png">
     </td>
     <td align='center'>
-        <img src="https://download.logo.wine/logo/Redis/Redis-Logo.wine.png">
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://cdn-images-1.medium.com/max/1200/1*kqpVTzo8b0e2oKdOjWQxZA.png">
+        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/laravel_logo_icon_170314.png">
     </td>
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
+        <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://buttercms.com/static/images/tech_banners/Flask.png" >
+        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" >
     </td>
     <td align='center'>
-        <img src="https://logodix.com/logo/1686380.png" width="60" height="60">
+        <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg">
     </td>
     <td align='center'>
         <img src="https://logos-download.com/wp-content/uploads/2016/10/Ansible_logo.png" width="60" height="60">
