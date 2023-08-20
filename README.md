@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @iabubakardev
-- 👀 I’m software developer working as Angular/Ionic developer.
-- 🌱 I’m currently learning React JS, Solidity and Serverless Framework
+Hi there, I'm Saad 👋
