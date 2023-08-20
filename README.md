@@ -88,10 +88,10 @@
         <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://logos-download.com/wp-content/uploads/2016/10/Ansible_logo.png" width="60" height="60">
+        <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" height="80">
+        <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg">
     </td>
 </tr>
 
