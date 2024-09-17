@@ -17,7 +17,7 @@
         <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
     </td>
     <td align='center' width="190">
-        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="60" height="60">
+        <img src="https://camo.githubusercontent.com/03cfa0bbbd53e82c7735f8679c64bdbb487854cb1c4b904887e6221f4071a23d/68747470733a2f2f7374617469632e7665637465657a792e636f6d2f73797374656d2f7265736f75726365732f70726576696577732f3031322f3639372f3239352f6e6f6e5f32782f33642d707974686f6e2d70726f6772616d6d696e672d6c616e67756167652d6c6f676f2d667265652d706e672e706e67"  width="60" height="60">
     </td>
      <td align='center' width="190">
         <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
@@ -97,7 +97,7 @@
 
 <tr>
     <td align='center'>
-        <img src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/aws-logo-blog-header.png?itok=t4o3meiH">
+        <img src="https://camo.githubusercontent.com/4634b44d783c3f15c89100073dd99c1ef5afefb4f94ae3afa350b39cb9d3aa73/68747470733a2f2f6c6f676f732d776f726c642e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f30382f416d617a6f6e2d5765622d53657276696365732d4157532d456d626c656d2e706e67">
     </td>
     <td align='center'>
         <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png">
@@ -109,7 +109,7 @@
         <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" height="80" width="90" >
     </td>
     <td align='center'>
-        <img src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png" >
+        <img src="https://cdn.rswebsols.com/wp-content/uploads/2024/02/next-js-logo-920x341.png?strip=all&lossy=1&ssl=1" >
     </td>
 </tr>
     
