@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as Full Stack Developer.
 - 🌱 I’m currently learning Spring Boot & Go.
 - 👯 I’m looking to collaborate with other content creators and developers.
-- 🥅 2023 Goals: Contribute more to Open Source projects.
+- 🥅 2025 Goals: Contribute more to Open Source projects.
 
 <h2><i>💻 Tech Stack and Tools</i></h2>
 
